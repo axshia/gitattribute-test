@@ -1,7 +1,7 @@
-class Sub
+class SubClass
   def self.run
-    puts "Hello, world!"
+    puts "change class name"
   end
 end
 
-Sub.run
+SubClass.run
